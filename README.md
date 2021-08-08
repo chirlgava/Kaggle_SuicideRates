@@ -9,5 +9,7 @@ data exploration trainning
 **Python Version:** 3.8.7  
 **Packages:** pandas, matplotlib, geopandas, shapely
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
-**Scraper Github:** 
-**Scraper Article:** 
+**Data:**Data/master.csv
+
+## Brazil_analysis
+Suicide rate analysis using Brazil's data
