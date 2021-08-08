@@ -6,10 +6,27 @@ data exploration trainning
 ## Date
 08/08/2021
 ## Code and Resources Used 
-**Python Version:** 3.8.7  
-**Packages:** pandas, matplotlib, geopandas, shapely
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
-**Data:**Data/master.csv
+**Python Version:** 3.8.7  <br>
+**Packages:** pandas, matplotlib, geopandas, shapely <br>
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```  <br>
+**Data:**Data/master.csv 
 
 ## Brazil_analysis
-Suicide rate analysis using Brazil's data
+Data from kaggle is analysed to obtain the following information from Brazil's suicidal rates:
+<ul><li>Male x Female over the years</li>
+<li>Male x female pie chart in most recent data</li>
+<li>Generations X generation over the years</li>
+<li>Generations X generation pie chart in most recent data</li>
+<li>Age x Age over the years</li>
+<li>Age x Age pie chart in most recent data</li> 
+</ul>
+
+## Country_analysis
+Single country analysis of suicide rate, just input the year and country in setup and obtain the following:
+<ul><li>Male x Female over the years</li>
+<li>Male x female pie chart in most recent data</li>
+<li>Generations X generation over the years</li>
+<li>Generations X generation pie chart in most recent data</li>
+<li>Age x Age over the years</li>
+<li>Age x Age pie chart in most recent data</li> 
+</ul>
