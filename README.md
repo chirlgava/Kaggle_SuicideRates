@@ -33,4 +33,4 @@ Single country analysis of suicide rate, just input the year and country in setu
 
 ## World_analysis
 World suicide rate analysis from year 2010 using geopandas
-![Screenshot](world.jpg)
+![alt text](https://github.com/chirlgava/Kaggle_SuicideRates/blob/main/wolrd.jpg)
